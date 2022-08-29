@@ -1,0 +1,26 @@
+[
+    {
+        "name": "neelam",
+        "Designation": "programer",
+        "Age": "24",
+        "Salary": "2400"
+    },
+    {
+        "name": "komal",
+        "Designation": "trainer",
+        "Age": "24",
+        "salary": "20000"
+    },
+    {
+        "name": "anuradha",
+        "Designation": "HR",
+        "Age": "25",
+        "salary": "40000"
+    },
+    {
+        "name": "Abhishek",
+        "Designation": "manager",
+        "Age": "29",
+        "salary": "63000"
+    }
+]
